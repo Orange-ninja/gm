@@ -8219,3 +8219,4 @@
 {"JuneckJuneck13", "0x577932C288924E6298c1120e420d76bc00E79D8E", "https://twitter.com/JuneckJuneck13/status/1460692659975057408"}
 {"Bitcoin_bulI", "0xa8ecD7EE497B7931CF47b726048310247ecB8DF1", "https://twitter.com/Bitcoin_bulI/status/1460693435611070470"}
 {"CryptoXpirate", "0xF694ffA78947d399eedF26855B8D2463ce8F8C81", "https://twitter.com/CryptoXpirate/status/1460693722807484417"}
+{"Dont_taze_mebro", "0x8aF64ef6ccB887736FB0dd682A730A418325E5cF", "https://twitter.com/Dont_taze_mebro/status/1459405933465985026"}
